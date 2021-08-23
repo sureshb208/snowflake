@@ -1,5 +1,5 @@
-ALTER TABLE flyway.flyway_demo 
+ALTER TABLE migration_demo.schemachange_demo 
     ADD address VARCHAR
 ;
 
-desc table flyway.flyway_demo;
+desc table migration_demo.schemachange_demo;
