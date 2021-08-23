@@ -1,4 +1,4 @@
-ALTER TABLE migration_demo.schemachange_demo 
+ALTER TABLE {{ variable1 }}.schemachange_demo 
     ADD address VARCHAR
 ;
 
