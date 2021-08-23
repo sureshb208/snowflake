@@ -1,2 +1,5 @@
 settings.json
 conf/
+.DS_Store
+schemachange/.DS_Store
+schemachange/sql/.DS_Store
